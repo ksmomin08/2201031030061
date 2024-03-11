@@ -45,7 +45,7 @@ input, textarea{
 }
 input:focus,
 textarea:focus{
-    outline:;
+    outline;
     box-shadow:  0 0 8px #bbb;
 }
 buttom{
